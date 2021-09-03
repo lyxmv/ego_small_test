@@ -1,0 +1,4 @@
+2021-08-23 20:33:43,429 INFO [root] [__init__.py(<module>:5)] - 测试在api下的__init__.py中的日志打印结果
+2021-08-23 20:33:43,902 INFO [root] [test_ego.py(test07_get_token:44)] - 获取token结果为:{'token': '9df2cba9ab58f6d3ae21b6b548fd6aa0'}
+2021-08-23 20:33:43,903 INFO [root] [test_ego.py(test07_get_token:45)] - response.json().get('token')：9df2cba9ab58f6d3ae21b6b548fd6aa0.
+2021-08-23 20:34:16,396 INFO [root] [__init__.py(<module>:5)] - 测试在api下的__init__.py中的日志打印结果

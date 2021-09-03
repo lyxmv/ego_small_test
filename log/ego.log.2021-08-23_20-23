@@ -1,0 +1,2 @@
+2021-08-23 20:23:28,565 INFO [root] [__init__.py(<module>:5)] - 测试在api下的__init__.py中的日志打印结果
+2021-08-23 20:23:28,774 INFO [root] [test_ego.py(test09_get_user_list:57)] - 获取用户订单结果为:{'msg': 'Token已过期或无效Token', 'error_code': 10001, 'request_url': '/api/v1/order/by_user?page=1'}

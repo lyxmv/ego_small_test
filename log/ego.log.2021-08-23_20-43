@@ -1,0 +1,2 @@
+2021-08-23 20:43:31,817 INFO [root] [__init__.py(<module>:5)] - 测试在api下的__init__.py中的日志打印结果
+2021-08-23 20:43:32,021 INFO [root] [test_ego.py(test12_get_address:77)] - 获取地址结果为:{'name': '张三', 'mobile': '020-81167888', 'province': '广东省', 'city': '广州市', 'country': '海珠区', 'detail': '新港中路397号', 'update_time': '1970-01-01 08:00:00'}
